@@ -26,3 +26,9 @@ The dashboard provides insights into:
 - adidas-sales-dashboard.twb – Tableau dashboard
 - Adidas US Sales Datasets.xlsx – dataset
 - dashboard.png – dashboard preview
+
+## Author
+
+Danial Zholdasbai  
+Aspiring Data Analyst  
+LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%B0%D0%BB-%D0%B6%D0%BE%D0%BB%D0%B4%D0%B0%D1%81%D0%B1%D0%B0%D0%B9-b10335276/)
